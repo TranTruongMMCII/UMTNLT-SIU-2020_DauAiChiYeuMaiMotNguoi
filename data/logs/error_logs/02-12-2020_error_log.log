@@ -1,0 +1,6 @@
+[Wed, 02 Dec 2020 08:55:49 +0700] [localhost] [::1] [User Notice(1024): SQLSTATE[HY000] [1045] Access denied for user 'truongtlt147_gmail_com'@'localhost' (using password: YES)] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 85]
+[Wed, 02 Dec 2020 08:57:31 +0700] [localhost] [127.0.0.1] [User Notice(1024): SQLSTATE[HY000] [1045] Access denied for user 'truongtlt147_gmail_com'@'localhost' (using password: YES)] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 85]
+[Wed, 02 Dec 2020 08:57:41 +0700] [localhost] [::1] [Error(1): Maximum execution time of 120 seconds exceeded] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 84]
+[Wed, 02 Dec 2020 08:58:15 +0700] [localhost] [::1] [Error(1): Maximum execution time of 120 seconds exceeded] [FILE: /vendor/vinades/nukeviet/Core/Request.php] [LINE: 575]
+[Wed, 02 Dec 2020 09:20:47 +0700] [localhost] [::1] [Notice(8): Undefined offset: 17] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 93]
+[Wed, 02 Dec 2020 09:20:47 +0700] [localhost] [::1] [Notice(8): Undefined offset: 17] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 94]
