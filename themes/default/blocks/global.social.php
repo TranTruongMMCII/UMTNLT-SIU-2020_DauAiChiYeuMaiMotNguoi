@@ -32,7 +32,7 @@ if (!nv_function_exists('nv_menu_theme_social')) {
         $html .= '	<div class="col-sm-18"><input type="text" name="config_youtube" class="form-control" value="' . $data_block['youtube'] . '"/></div>';
         $html .= '</div>';
         $html .= '<div class="form-group">';
-        $html .= '	<label class="control-label col-sm-6">' . $lang_block['twitter'] . ':</label>';
+        $html .= '	<label class="control-label col-sm-6">' . $lang_block['zalo'] . ':</label>';
         $html .= '	<div class="col-sm-18"><input type="text" name="config_twitter" class="form-control" value="' . $data_block['twitter'] . '"/></div>';
         $html .= '</div>';
         return $html;

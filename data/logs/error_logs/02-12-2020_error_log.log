@@ -4,3 +4,18 @@
 [Wed, 02 Dec 2020 08:58:15 +0700] [localhost] [::1] [Error(1): Maximum execution time of 120 seconds exceeded] [FILE: /vendor/vinades/nukeviet/Core/Request.php] [LINE: 575]
 [Wed, 02 Dec 2020 09:20:47 +0700] [localhost] [::1] [Notice(8): Undefined offset: 17] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 93]
 [Wed, 02 Dec 2020 09:20:47 +0700] [localhost] [::1] [Notice(8): Undefined offset: 17] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 94]
+[Wed, 02 Dec 2020 10:14:00 +0700] [localhost] [::1] [Warning(2): simplexml_load_file(): D:/xampp/htdocs/UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi/themes/default/config.ini:335: parser error : Extra content at the end of the document] [FILE: /admin/themes/block_content.php] [LINE: 402]
+[Wed, 02 Dec 2020 10:14:26 +0700] [localhost] [::1] [Warning(2): simplexml_load_file(): D:/xampp/htdocs/UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi/themes/default/config.ini:335: parser error : Extra content at the end of the document] [FILE: /index.php] [LINE: 280]
+[Wed, 02 Dec 2020 10:15:03 +0700] [localhost] [::1] [Warning(2): simplexml_load_file(): D:/xampp/htdocs/UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi/themes/default/config.ini:335: parser error : Extra content at the end of the document] [FILE: /admin/themes/setuplayout.php] [LINE: 57]
+[Wed, 02 Dec 2020 10:15:03 +0700] [localhost] [::1] [Notice(8): Trying to get property 'layoutdefault' of non-object] [FILE: /admin/themes/setuplayout.php] [LINE: 58]
+[Wed, 02 Dec 2020 10:15:03 +0700] [localhost] [::1] [Error(1): Uncaught Error: Call to a member function xpath() on bool in D:\xampp\htdocs\UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi\admin\themes\setuplayout.php:59
+Stack trace:
+#0 D:\xampp\htdocs\UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi\admin\index.php(175): require()
+#1 {main}
+  thrown] [FILE: /admin/themes/setuplayout.php] [LINE: 59]
+[Wed, 02 Dec 2020 10:15:13 +0700] [localhost] [::1] [Warning(2): simplexml_load_file(): D:/xampp/htdocs/UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi/themes/default/config.ini:335: parser error : Extra content at the end of the document] [FILE: /admin/themes/blocks.php] [LINE: 78]
+[Wed, 02 Dec 2020 10:15:13 +0700] [localhost] [::1] [Error(1): Uncaught Error: Call to a member function xpath() on bool in D:\xampp\htdocs\UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi\admin\themes\blocks.php:79
+Stack trace:
+#0 D:\xampp\htdocs\UMTNLT-SIU-2020_DauAiChiYeuMaiMotNguoi\admin\index.php(175): require()
+#1 {main}
+  thrown] [FILE: /admin/themes/blocks.php] [LINE: 79]
